@@ -1,5 +1,8 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
+skin: "/assets/css/skins/dark.css"
+locale: en-US
+
 title: "Liu Yue"
 description: "Liu Yue's personal website."
 url: "https://euyuil.com"
@@ -8,5 +11,4 @@ baseurl: ""
 author:
   name: "Liu Yue"
   email: "euyuil@gmail.com"
-  twitter_username: euyuil
-  github_username: euyuil
+  twitter: euyuil
