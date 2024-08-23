@@ -27,7 +27,7 @@ I also like to relax by playing video games, particularly FPS titles. I'm a Stea
 
 ## Let's connect
 
-If you'd like to connect or learn more about my work, feel free to reach out to me at [euyuil@gmail.com](mailto:euyuil@gmail.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/euyuil/), follow me on [X (formerly Twitter)](https://x.com/euyuil), or check out my projects on [GitHub](https://github.com/euyuil).
+If you'd like to connect or learn more about my work, feel free to reach out to me at [contact@euyuil.com](mailto:contact@euyuil.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/euyuil/), follow me on [X (formerly Twitter)](https://x.com/euyuil), or check out my projects on [GitHub](https://github.com/euyuil).
 
 I'm currently based in Shanghai, and I'm open to meeting offline for coffee or a chat about potential collaborations. I enjoy meeting new people from all industries, not just tech.
 
