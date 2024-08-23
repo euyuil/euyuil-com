@@ -15,6 +15,8 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 
+google_analytics: "G-SHR14W88WM"
+
 author:
   name: "Liu Yue"
   email: "contact@euyuil.com"
