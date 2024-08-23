@@ -8,6 +8,11 @@ sitemap: false
 @import "so-simple";
 
 // Custom CSS starts here
+
 .site-logo-img {
   border-radius: 0;
+}
+
+.footnotes p {
+  margin-bottom: 0.25rem;
 }
