@@ -1,0 +1,8 @@
+<svg width="640" height="640" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    #bg { fill: #333; }
+    #fg { fill: #fff; }
+  </style>
+  <rect id="bg" x="20" y="20" width="600" height="600" rx="100"/>
+  <polygon id="fg" points="100,100 100,540 540,540 540,100 450,100 450,275 365,275 365,100 275,100 275,365 450,365 450,450 190,450 190,100"/>
+</svg>

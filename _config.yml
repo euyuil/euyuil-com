@@ -4,10 +4,10 @@ skin: "/assets/css/skins/dark.css"
 locale: en-US
 
 title: "Liu Yue"
-description: "Liu Yue's personal website."
+description: "Liu Yue's personal website in English."
 url: "https://euyuil.com"
 baseurl: ""
-logo: "images/liuyue-logo-darkbg-sosimple.png"
+logo: "images/liuyue-logo-sosimple-dark.png"
 
 google_fonts:
   - name: "Source Sans Pro"
