@@ -17,9 +17,12 @@
   {% include google-analytics.html %}
 {%- endif %}
 
-{% if site.mathjax == true %}
-<!-- MathJax -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+{% if site.mathjax and site.mathjax.enable %}
+  {% include mathjax.html %}
+{% endif %}
+
+{% if site.bootstrap_grid and site.bootstrap_grid.enable %}
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" crossorigin="anonymous"></script>
 {% endif %}
 
 {%- if page.layout == "search" -%}
