@@ -25,6 +25,20 @@ google_analytics: "G-SHR14W88WM"
 
 twitter: euyuil
 
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  - scope:
+      path: "_projects"
+      type: projects
+    values:
+      layout: post
+      comments: true
+      share: true
+
 author:
   name: "Liu Yue"
   picture: https://assets.euyuil.com/images/avatars/liuyue-avatar-longhair-2024-2.jpg
