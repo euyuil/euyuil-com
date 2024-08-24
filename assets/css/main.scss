@@ -7,8 +7,9 @@ sitemap: false
 
 @import "so-simple";
 
+//
 // Custom CSS starts here
-
+//
 .site-logo-img {
   border: none;
   border-radius: 0;
@@ -16,4 +17,9 @@ sitemap: false
 
 .footnotes p {
   margin-bottom: 0.5rem;
+}
+
+// A code block followed by a caption
+pre:has(> code):has(+ p > em) {
+  margin-bottom: 0;
 }
