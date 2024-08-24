@@ -13,7 +13,7 @@ mathjax:
   enable: false
 
 bootstrap_grid:
-  enable: false
+  enable: true
 
 google_fonts:
   - name: "Source Sans Pro"
